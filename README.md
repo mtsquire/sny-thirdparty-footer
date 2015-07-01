@@ -1,5 +1,3 @@
-# sny-thirdparty-nav
-
 SNY 3rd Party Nav
 =============================
 This is the header/footer for 3rd party hosted SNY pages.
