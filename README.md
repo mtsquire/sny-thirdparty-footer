@@ -10,3 +10,6 @@ css/font-awesome.min.css
 css/sny-thirdparty.css
 js/sny-thirdparty.js (dependent on jQuery)
 ```
+TODO:
+--------
+- Add correct link paths
