@@ -15,6 +15,3 @@ Notes:
 --------
 Bootstrap was included in this project strictly for the normalize.css portion.  It is not necessary to copy over the bootstrap files.
 
-TODO:
---------
-- Add correct link paths
