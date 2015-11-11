@@ -8,13 +8,11 @@ $(document).ready(function(){
 	function showSnyMenu() {
 		snyLinks.addClass('active');
 		dropdown.addClass('open');
-		dropdown.slideDown('slow');
 	}
 
 	function hideSnyMenu() {
 		snyLinks.removeClass('active');
 		dropdown.removeClass('open');
-		dropdown.slideUp('slow');
 	};
 
 	moreLinks.click(function(e){
